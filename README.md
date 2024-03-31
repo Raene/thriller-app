@@ -9,3 +9,6 @@ please select profile and email when choosing scopes in your google console as t
  refer to the .env.example in each microservice app to know the right env variables to set
 
 also, to see the routes documentation, please refer to the file <**Thriller.postman_collection.json**>
+
+
+run `docker-compose up` in the parent folder to start the app, make sure you have set your .env variables first
